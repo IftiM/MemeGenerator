@@ -1,5 +1,5 @@
 Project Meme Generator
-Udacity Intermediate Python
+Udacity Intermediate Python Nanodegree
 Student Name: Iftikhar Mustafa
 July 11th, 2021
 
