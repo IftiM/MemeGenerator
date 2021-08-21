@@ -1,10 +1,7 @@
-==========================================
 Project Meme Generator
 Udacity Intermediate Python
 Student Name: Iftikhar Mustafa
 July 11th, 2021
-==========================================
-
 
 This project is an automated meme generator. We have some pictures in a folder, from where the script is able to pick any one image randomly. Then collects some sentences from some given files, which could be in docx, txt, pdf or csv format. Once it collects the sentences it breaks them into two-part - body of the quote, and author. The script then chooses only one of these quotes randomly and place on top the image on a random location.
 
