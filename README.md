@@ -1,5 +1,3 @@
----------------- READ ME -----------------
-
 ==========================================
 Project Meme Generator
 Udacity Intermediate Python
